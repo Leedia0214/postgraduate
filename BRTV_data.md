@@ -8,6 +8,10 @@ weibopostprocess
 
 微博爬虫github
 
+```
+pip install absl-py
+pip install lxml
+```
 ##### 操作：
 
 1、将“微博爬虫github”里的weibo文件夹删去
